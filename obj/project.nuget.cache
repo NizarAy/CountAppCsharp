@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ioe7b4Y7+Bk=",
+  "success": true,
+  "projectFilePath": "D:\\code\\ObjectCounterApp\\ObjectCounterApp\\ObjectCounterApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BSA.LAPTOP-CSSI4VCS\\.nuget\\packages\\docx\\3.0.23523.1209\\docx.3.0.23523.1209.nupkg.sha512",
+    "C:\\Users\\BSA.LAPTOP-CSSI4VCS\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\BSA.LAPTOP-CSSI4VCS\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\BSA.LAPTOP-CSSI4VCS\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\BSA.LAPTOP-CSSI4VCS\\.nuget\\packages\\system.io.packaging\\4.5.0\\system.io.packaging.4.5.0.nupkg.sha512",
+    "C:\\Users\\BSA.LAPTOP-CSSI4VCS\\.nuget\\packages\\xceed.document.net\\3.0.23523.1209\\xceed.document.net.3.0.23523.1209.nupkg.sha512",
+    "C:\\Users\\BSA.LAPTOP-CSSI4VCS\\.nuget\\packages\\xceed.pdf\\3.0.23523.1209\\xceed.pdf.3.0.23523.1209.nupkg.sha512",
+    "C:\\Users\\BSA.LAPTOP-CSSI4VCS\\.nuget\\packages\\xceed.words.net\\3.0.23523.1209\\xceed.words.net.3.0.23523.1209.nupkg.sha512"
+  ],
+  "logs": []
+}

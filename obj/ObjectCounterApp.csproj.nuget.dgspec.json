@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\code\\ObjectCounterApp\\ObjectCounterApp\\ObjectCounterApp.csproj": {}
+  },
+  "projects": {
+    "D:\\code\\ObjectCounterApp\\ObjectCounterApp\\ObjectCounterApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\code\\ObjectCounterApp\\ObjectCounterApp\\ObjectCounterApp.csproj",
+        "projectName": "ObjectCounterApp",
+        "projectPath": "D:\\code\\ObjectCounterApp\\ObjectCounterApp\\ObjectCounterApp.csproj",
+        "packagesPath": "C:\\Users\\BSA.LAPTOP-CSSI4VCS\\.nuget\\packages\\",
+        "outputPath": "D:\\code\\ObjectCounterApp\\ObjectCounterApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\BSA.LAPTOP-CSSI4VCS\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "DocX": {
+              "target": "Package",
+              "version": "[3.0.23523.1209, )"
+            },
+            "Xceed.Words.NET": {
+              "target": "Package",
+              "version": "[3.0.23523.1209, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
